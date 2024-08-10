@@ -22,7 +22,10 @@ All the files are required for a complete case assembly. The default repository 
 <a target="_blank" rel="noopener noreferrer" href="https://www.freecad.org/" > FreeCAD </a> may prove suitable for viewing, handling and, if desired modifying STEP files.
 <br>
 <br>
-    
+
+## Consderations
+The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
+
 ## Please note:  
 All information is For Indication only.
 No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.
