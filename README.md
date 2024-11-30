@@ -26,6 +26,8 @@ All the files are required for a complete case assembly. The default repository 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
 
+The original male 8 way 2 row top slot header style connector (marked MXS 70224) may have included a custom pin support moulding. Data from a parts list kindly indicated in this <a href="www.organiser2.com"> hardware forum</a> seemed to confirm this theory. Readily avialable 8 way 2 row header connectors tend to have smaller pin support mouldings. The effect of using pin headers with smaller moulding is to permit the PCB to displace vertically in the slot guide channel, resulting in poor alignment with the mating female connector and potential insertion difficulty. There are a number of mitigations, such as changing the height of the male header connector in the PCB and adding material to support the top of a smaller male header pin support moulding. The precise accomodation will depend on your selected pin header moulding.     
+
 ## Please note:  
 All information is For Indication only.
 No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.
