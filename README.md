@@ -22,15 +22,15 @@ All the files are required for a complete case assembly. The default repository 
 <a target="_blank" rel="noopener noreferrer" href="https://www.freecad.org/" > FreeCAD </a> may prove suitable for viewing, handling and, if desired modifying STEP files.
 <br>
 <br>
-Models might be viewed on line using the following links, noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is recomended to use the source STEP file, any export process will introduce artifacts.  
-<BR>
+
+### On-Line Preview   
+Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
  - Top - <a href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Top%2008.stp">here</a>.  
- <BR>
  - Bottom - <a href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Bottom%2001.stp">here</a>.  
- <BR>
  - Rear Cover - <a href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Rear%20Cover%2000.stp">here</a>.  
 
- <BR>
+<BR>
+<BR>
 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
