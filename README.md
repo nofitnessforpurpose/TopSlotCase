@@ -25,9 +25,9 @@ All the files are required for a complete case assembly. The default repository 
 
 ### On-Line Preview   
 Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
- - Top - <a href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Top%2008.stp">here</a>.  
- - Bottom - <a href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Bottom%2001.stp">here</a>.  
- - Rear Cover - <a href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Rear%20Cover%2000.stp">here</a>.  
+ - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Top%2008.stp">here</a>.  
+ - Bottom - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Bottom%2001.stp">here</a>.  
+ - Rear Cover - <a  target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Rear%20Cover%2000.stp">here</a>.  
 
 <BR>
 <BR>
