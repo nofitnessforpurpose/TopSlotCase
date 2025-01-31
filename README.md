@@ -1,7 +1,7 @@
 # TopSlotCase
 PSION Organiser II - Top Slot Case
 
-A 3D Model file of a PSION Organiser II (all family) Top Slot Case. The intention to allow design of modified cases and enable part clearance of electronics within the case to be more readily determined.
+A 3D Model file of an Organiser II (all family) Top Slot Case. The intention to allow design of modified cases and enable part clearance of electronics within the case to be more readily determined.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
